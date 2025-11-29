@@ -14,8 +14,8 @@ public class Menu {
                 2) BRL para USD
                 3) EUR para BRL
                 4) BRL para EUR
-                5) GPB para BRL
-                6) BRL para GPB
+                5) EGP para BRL
+                6) BRL para EGP
                 7) Sair.
                 ********************************************
                 """;
@@ -25,3 +25,4 @@ public class Menu {
     }
 
 }
+
